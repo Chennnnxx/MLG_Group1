@@ -1,1 +1,1 @@
-
+%run FsPlusRpPlusGfs.py Simulation-Data/Simulation-Data-Normal.txt Simulation-Data-Tumor.txt 50 20 10 30 30
